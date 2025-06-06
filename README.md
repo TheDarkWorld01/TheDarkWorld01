@@ -21,10 +21,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html5" height="60"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css3" height="60"/>
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60"/>
