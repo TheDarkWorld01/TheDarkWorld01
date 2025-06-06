@@ -46,7 +46,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution.svg">
+  <img alt="pacman contribution graph" src="[https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution.svg](https://raw.githubusercontent.com/TheDarkWorld01/TheDarkWorld01/refs/heads/main/pacman-contributions.svg)">
 </picture>
 
 ###
