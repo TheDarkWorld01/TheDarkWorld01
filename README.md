@@ -19,17 +19,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="60"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=codeigniter" height="60"/>
+  <img src="https://skillicons.dev/icons?i=django" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html5" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css3" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kalilinux" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="60"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/syahrul-agung"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
 </div>
 
 ###
@@ -42,9 +48,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thedarkwolrd01/thedarkwolrd01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thedarkwolrd01/thedarkwolrd01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thedarkwolrd01/thedarkwolrd01/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
