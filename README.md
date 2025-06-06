@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  <img width="12" />
+  <img width="12" /><br>
   <img src="https://skillicons.dev/icons?i=c" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="60"/>
@@ -48,9 +48,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheDarkWolrd01/TheDarkWolrd01/output/pacman-contribution.svg">
 </picture>
 
 ###
