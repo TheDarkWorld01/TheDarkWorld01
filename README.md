@@ -46,5 +46,7 @@
 </div>
 
 ###
-<img alt=arcade-contribution-graph" src="https://github.com/TheDarkWorld01/TheDarkWorld01/-/raw/main/output/[game-name]-contribution-graph.svg">
+<picture>
+  <img alt=arcade-contribution-graph" src="https://raw.githubusercontent.com/TheDarkWorld01/TheDarkWorld01/refs/heads/main/acrade-contributions.svg">
+</picture>
 ###
