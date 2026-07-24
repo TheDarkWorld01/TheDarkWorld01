@@ -42,11 +42,9 @@
 ###
 
 <div align="center">
-   <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=TheDarkWorld01&theme=radical&border_radius=5" alt="GitHub Streak" />
-   </a>
+  <img src="https://streak-stats.demolab.com?user=TheDarkWorld01&theme=radical&border_radius=5" alt="GitHub Streak" />
 </div>
 
 ###
-
+<img alt=arcade-contribution-graph" src="https://github.com/TheDarkWorld01/TheDarkWorld01/-/raw/main/output/[game-name]-contribution-graph.svg">
 ###
